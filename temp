@@ -1,0 +1,37 @@
+{
+    'items': [
+        {
+            'id': '1301579260372324556', 
+            'name': 'angry_mention', 
+            'user': 
+            {
+                'id': '725187659760402463', 
+                'username': 'watermelonowo_', 
+                'avatar': '88cca088d569d794dbdfa377527fe146', 
+                'discriminator': '0', 
+                'public_flags': 0, 
+                'flags': 0, 
+                'banner': None,
+                'accent_color': None, 
+                'global_name': '周西瓜(´･Д･)」',
+                'avatar_decoration_data': None, 
+                'banner_color': None, 
+                'clan': None
+            }, 
+            'roles': [], 
+            'require_colons': True, 
+            'managed': False, 
+            'animated': False, 
+            'available': True
+        }, 
+        {
+            'id': '1301579310863351829', 
+            'name': 'danger', 
+            'user': {'id': '725187659760402463', 'username': 'watermelonowo_', 'avatar': '88cca088d569d794dbdfa377527fe146', 'discriminator': '0', 'public_flags': 0, 'flags': 0, 'banner': None, 'accent_color': None, 'global_name': '周西瓜(´･Д･)」', 'avatar_decoration_data': None, 'banner_color': None, 'clan': None}, 
+            'roles': [], 
+            'require_colons': True, 
+            'managed': False, 
+            'animated': False, 'available': True
+        }
+    ]
+}
